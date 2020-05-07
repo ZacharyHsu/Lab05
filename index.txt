@@ -6,5 +6,6 @@
 	<body>
 		<h1>Zachary Hsu</h1>
 		<p>I'm studying in University of Auckland</p>
+		<P>I am studying computer science because I want to learn about coding</p>
 	</body>
 </html>
